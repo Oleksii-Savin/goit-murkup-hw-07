@@ -1,3 +1,3 @@
-# goit-markup-hw-06
+# goit-markup-hw-07
 
-HW-6 Forms Markup and Styling
+BEM and SASS
